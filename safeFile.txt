@@ -1,2 +1,1 @@
-NOT A SAFE FILE
-infected
+This is a safe file
